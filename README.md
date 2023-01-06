@@ -1,5 +1,9 @@
 # 🙋🏾‍♂️ About Me:
-👋Hi there! My name is Gabriel.<br>🖥️I am a Front-End Developer with a passion for building websites.<br>🖱️I have experience in Javascript, Bootstrap, Tachyons.<br>📖Studying React at the moment.<br>🚀Always looking to learn and improve my skills.
+👋 Hi there! My name is Gabriel.<br>
+🖥️ I am a Front-End Developer with a passion for building websites.<br>
+🖱️  I have experience in Javascript, Bootstrap, Tachyons.<br>
+📖 Studying React at the moment.<br>
+🚀 Always looking to learn and improve my skills.
 
 
 ## 🌐 Socials:
