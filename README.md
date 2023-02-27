@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61F8D7&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name+is+Gabriel+Carneiro;+I+am+a+Front-End+Developer+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarneiro098&bg_color=#000056&color=00f624&line=1579cb&point=7effa2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarneiro098&bg_color=000056&color=00f624&line=1579cb&point=7effa2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielCarneiro098&show_icons=true&count_private=true&hide_border=true&title_color=10ffba&icon_color=1579CB&text_color=00F624&bg_color=000056" alt="Gabriel Carneiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=1579CB&text_color=00F624BG&bg_color=000056" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=10FFBA&text_color=00F624bg_color=000056" />
 </div>
 
 
@@ -19,15 +19,15 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=0A192F&logo=javascript&logoColor=CCD6F6)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=0A192F&logo=html5&logoColor=CCD6F6)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=0A192F&logo=css3&logoColor=CCD6F6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=000056&&logo=javascript&logoColor=CCD6F6)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=000056&logo=html5&logoColor=CCD6F6)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=000056&&logo=css3&logoColor=CCD6F6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&colot=000056&logo=bootstrap&logoColor=CCD6F6)&nbsp;
 
 
 ### Studying at the moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=0A192F&logo=javascript&logoColor=CCD6F6)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&colo=000056&logo=react&logoColor=CCD6F6)
 
 
 <div align="center">
