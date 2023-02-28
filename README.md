@@ -19,15 +19,15 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=000056&&logo=javascript&logoColor=CCD6F6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=000056&logo=javascript&logoColor=CCD6F6)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=000056&logo=html5&logoColor=CCD6F6)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=000056&&logo=css3&logoColor=CCD6F6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&colot=000056&logo=bootstrap&logoColor=CCD6F6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&color=000056&logo=bootstrap&logoColor=CCD6F6)&nbsp;
 
 
 ### Studying at the moment:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=0A192F&logo=javascript&logoColor=CCD6F6)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&colo=000056&logo=react&logoColor=CCD6F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=000056&logo=javascript&logoColor=CCD6F6)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=000056&logo=react&logoColor=CCD6F6)
 
 
 <div align="center">
