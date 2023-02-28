@@ -35,8 +35,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielCarneiro098}/count.svg" /></p> 
 <br>
 </div>
-
+  
+<div align="center">
   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+</div>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1579CB&height=120&section=footer"/>
