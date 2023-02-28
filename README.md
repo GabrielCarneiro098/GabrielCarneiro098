@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1579CB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=902923&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F624&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name+is+Gabriel+Carneiro;+I+am+a+Front-End+Developer+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A22C29&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name+is+Gabriel+Carneiro;+I+am+a+Front-End+Developer+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarneiro098&bg_color=000056&color=00f624&line=1579CB&point=7effa2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarneiro098&bg_color=D6D5C9&color=902923&line=A22C29&point=0A100D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielCarneiro098&show_icons=true&count_private=true&hide_border=true&title_color=10ffba&icon_color=1579CB&text_color=00F624&bg_color=000056" alt="Gabriel Carneiro github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=10FFBA&text_color=00F624&bg_color=000056" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielCarneiro098&show_icons=true&count_private=true&hide_border=true&title_color=10ffba&icon_color=1579CB&text_color=00F624&bg_color=D6D5C9" alt="Gabriel Carneiro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=10FFBA&text_color=00F624&bg_color=D6D5C9" />
 </div>
 
 
@@ -39,4 +39,4 @@
   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1579CB&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=902923&height=120&section=footer"/>
