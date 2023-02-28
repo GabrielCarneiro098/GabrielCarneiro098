@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielCarneiro098&show_icons=true&count_private=true&hide_border=true&title_color=A22C29&icon_color=B9BAA3&text_color=A22C29&bg_color=D6D5C9" alt="Gabriel Carneiro github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=A22C29&text_color=A22C29bg_color=D6D5C9" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=A22C29&text_color=A22C29&bg_color=D6D5C9" />
 </div>
 
 
@@ -19,15 +19,15 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=A22C29&logo=javascript&logoColor=CCD6F6)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=A22C29&logo=html5&logoColor=CCD6F6)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=A22C29&logo=css3&logoColor=CCD6F6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&color=A22C29&logo=bootstrap&logoColor=CCD6F6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=A22C29&logo=javascript&logoColor=D6D5C9)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&color=A22C29&logo=html5&logoColor=D6D5C9)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&color=A22C29&logo=css3&logoColor=D6D5C9)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&color=A22C29&logo=bootstrap&logoColor=D6D5C9)&nbsp;
 
 
 ### Studying at the moment:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=A22C29&logo=javascript&logoColor=CCD6F6)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=A22C29&logo=react&logoColor=CCD6F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=A22C29&logo=javascript&logoColor=D6D5C9)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=A22C29&logo=react&logoColor=D6D5C9)
 
 
 <div align="center">
@@ -37,6 +37,6 @@
 </div>
   
   ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=D6D5C9)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=902923&height=120&section=footer"/>
