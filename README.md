@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22333b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1579CB&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F624&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name+is+Gabriel+Carneiro;+I+am+a+Front-End+Developer+:%29)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielCarneiro098&show_icons=true&count_private=true&hide_border=true&title_color=10ffba&icon_color=1579CB&text_color=00F624&bg_color=000056" alt="Gabriel Carneiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=10FFBA&text_color=00F624&bg_color=000056" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarneiro098&layout=compact&hide_border=true&title_color=10FFBA&text_color=00F624&bg_color=000056" />
 </div>
 
 
@@ -37,4 +37,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22333b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1579CB&height=120&section=footer"/>
