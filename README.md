@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F624&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;+My+name+is+Gabriel+Carneiro;+I+am+a+Front-End+Developer+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarneiro098&bg_color=000056&color=00f624&line=1579cb&point=7effa2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarneiro098&bg_color=000056&color=00f624&line=1579CB&point=7effa2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
