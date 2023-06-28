@@ -39,5 +39,5 @@
   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-  
+<img width=100% src="https://firebasestorage.googleapis.com/v0/b/tiktok---clone-14cea.appspot.com/o/lofi.png?alt=media&token=e243f34d-32f7-4f63-8808-094e66bea7c5"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=902923&height=120&section=footer"/>
